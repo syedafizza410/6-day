@@ -1,3 +1,6 @@
+// ************** 100 coding challenge "6 day" ************* //
+
+
 /* Q16 More Guests: You've found a bigger dinner table, so there's room for more guests.*/
 
 let guestslist : string[] = ["Huda" , "Bakhtawar" , "Saba" , "Hina"];
